@@ -49,16 +49,6 @@ const secondsDegrees = ((seconds / 60) * 360) + 90;
 
 4. CSS `transform: rotate()` rotates each clock hand accordingly.
 
----
-
-## 📂 Project Structure
-
-```
-xclock/
-│
-├── index.html
-├── README.md
-```
 
 ---
 
